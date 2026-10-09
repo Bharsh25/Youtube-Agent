@@ -4,11 +4,11 @@ Paste a YouTube link and get a timestamped breakdown, key takeaways, and the res
 
 Built with **Agno**, **Groq** (`openai/gpt-oss-120b`), and **Streamlit**.
 
-![App screenshot](docs/screenshot.png)
+<img width="1917" height="917" alt="Screenshot 2026-10-10 012345" src="https://github.com/user-attachments/assets/25cd66d1-1154-4385-b19f-cba977c98191" />
 
-> 📸 Add a screenshot: create a `docs/` folder, save your image as `screenshot.png`, and it will appear above.
+<img width="727" height="825" alt="Screenshot 2026-10-10 012401" src="https://github.com/user-attachments/assets/238b2607-c332-4972-9174-e4f7a6be317c" />
 
----
+
 
 ## ✨ Features
 
