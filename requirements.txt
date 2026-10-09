@@ -4,3 +4,4 @@ streamlit
 python-dotenv
 youtube-transcript-api
 greenlet
+sqlalchemy
